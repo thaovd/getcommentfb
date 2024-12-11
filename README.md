@@ -2,7 +2,7 @@
 
 
 
-# Trình Trích Xuất Bình Luận Facebook
+# Trích Xuất Bình Luận Facebook
 
 Đây là một ứng dụng Python cho phép bạn trích xuất bình luận từ một bài đăng trên Facebook và lưu chúng vào tệp CSV. Ứng dụng cũng cung cấp giao diện người dùng để tương tác với công cụ.
 
